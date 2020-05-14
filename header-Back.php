@@ -79,7 +79,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 .flex-container {
   display: flex;
   flex-wrap: wrap;
-  background-color: blue;
+  background-color: white;
 }
 
 .flex-container > div {
